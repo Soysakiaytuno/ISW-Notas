@@ -1,0 +1,45 @@
+			DEFINICIONES
+
+Software
+-Es todo programa interno de una computadora, que puede ser tanto una aplicacion de pc, celular o un navegador.
+_________________________________________________________________________________________________________________
+
+Ing Software
+-Es una ciencia que se basa en crear programas en la computadora o software
+_________________________________________________________________________________________________________________
+
+Git
+-Es una herramienta que sirve para poder ver y analizar todas las modificaciones que se le hizo a un archivo 
+_________________________________________________________________________________________________________________
+
+Programacion 
+-Es un conjunto de reglas y ordenes que establecemos a algo, en el caso de software, la programacion se enfoca en darle ordenes a la computadora
+mediante el uso del codigo
+_________________________________________________________________________________________________________________
+
+Lenguaje de programacion
+-Son codigos que nosotros podemos llegar a entender para darle ordenes a la computadora por medio de estos.
+_________________________________________________________________________________________________________________
+
+Compilador 
+-Es como un traductor que combierte el codigo a binario para que la computadora lo entienda, y analiza posibles errores en el codigo.
+_________________________________________________________________________________________________________________
+
+Ciclo de desarrollo
+-Es el proceso que debe tomarse para el desarrollo de un programa de manera efectiva, siguiendo lo siguiente:
+
+	1) Planificacion.- En esta etapa ves lo que requieres, lo que se busca y el como podemos desarrollar 
+
+	2) Analisis.-Una vez con la idea más clara este, debes analizar como va a ser el desarrollo y en que va a conllevar
+
+	3) Diseño.-En este paso plasmas sobre una hoja o en otro programa tu idea para ver si funciona como pensabas o ver de hacer cambios
+
+	4) Codificacion.- En este paso empiezas a codificar segun el diseño y los planes que tengas
+
+	5) Prueba.-Verificas el estado y funcionamiento del codigo y el programa
+
+	6) Mantenimiento.-Una vez el programa este listo, te enfocas en ir mejorando detalles que en su momento no se pudo para irlo evolucionando.
+_________________________________________________________________________________________________________________
+
+Documento de especificacion 
+-Un documento facil de leer para que los demas entiendan y nosotros podamos entender que es lo que necesita la aplicacion.

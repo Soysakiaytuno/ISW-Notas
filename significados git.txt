@@ -1,0 +1,38 @@
+git init;
+	Crea un repositorio en git;
+
+git config;
+	Te deja introducir tus datos como nombres y correo;
+
+git add;
+	Agregas un nuevo archivo al repositorio en git; 
+
+git commit;
+	Confirmas el archivo ingresado en el repositorio;
+
+git push;
+	Envia el conjunto de cambios a un solo conjunto de cambios;
+
+git pull;
+	Descargas una rama de un repositorio remoto;
+
+git branch;
+	Te deja crear, listar o eliminar ramas;
+
+git checkout;
+	Ademas de confirmar ramas te deja navegar entre ellas;
+
+github;
+	Es un sitio web donde te deja subir y almacenar codigos;
+
+github pages;
+	Es una extencion de girhub donde te deja crear tu propia pagina web;
+ 
+wiki;
+	Es un sitio que te deja crear paginas web sencillas para la compartir informacion rapida;
+
+	return 0;
+
+FUENTES/BIBLIOGRAFIA
+Atlassian. (s/f). Comandos básicos de Git. Atlassian. Recuperado el 16 de febrero de 2024, de https://www.atlassian.com/es/git/glossary
+

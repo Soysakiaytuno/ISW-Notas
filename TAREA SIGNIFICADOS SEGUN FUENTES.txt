@@ -1,0 +1,136 @@
+Software-
+El término software es un vocablo inglés que fue tomado por otros idiomas y designa a todo componente intangible 
+(y no físico) que forma parte de dispositivos como computadoras, teléfonos móviles o tabletas y que permite su funcionamiento.
+Se considera que el software es el equipamiento lógico e intangible de un ordenador. 
+En otras palabras, el concepto de software abarca a todas las aplicaciones informáticas, 
+como los procesadores de textos, las planillas de cálculo, los editores de imágenes, los reproductores de audio y los videojuegos, entre otras muchas.
+El software puede utilizarse para gestionar datos, automatizar procesos y crear aplicaciones o productos informáticos. 
+Su complejidad puede variar desde un simple programa de tratamiento de textos hasta complejos sistemas informáticos 
+que controlan infraestructuras críticas en sectores como la sanidad y el transporte.
+---------------------------------------------------------------------------
+
+Ing Software-
+La ingeniería del software es una disciplina que implica el uso de estructuras, herramientas y técnicas para construir programas informáticos.
+Esta disciplina trasciende la actividad de programación, que es el pilar fundamental a la hora de crear una aplicación. 
+El ingeniero de software se encarga de toda la gestión del proyecto para que éste se pueda desarrollar en un plazo determinado y con el presupuesto previsto.
+---------------------------------------------------------------------------
+
+Git-
+Git es un sistema de control de versiones distribuido gratuito y de código abierto diseñado para manejar todo, 
+desde proyectos pequeños hasta proyectos muy grandes con velocidad y eficiencia.
+---------------------------------------------------------------------------
+
+Programacion-
+La programación es el acto de programar, es decir, organizar una secuencia de pasos ordenados a seguir para hacer cierta cosa.
+Además, en el campo de la informática, la programación es la pieza clave en la relación entre los ordenadores y los usuarios.
+---------------------------------------------------------------------------
+
+Lenguaje de programacion-
+En informática, se conoce como lenguaje de programación a un programa destinado a la construcción de otros programas 
+informáticos. Su nombre se debe a que comprende un lenguaje formal que está diseñado para organizar algoritmos y 
+procesos lógicos que serán luego llevados a cabo por un ordenador o sistema informático.
+Los lenguajes de programación permiten a las computadoras procesar de forma rápida y eficientemente grandes y complejas cantidades de información.
+---------------------------------------------------------------------------
+
+Compilador 
+Compilar es el proceso de transformar un programa informático escrito en un lenguaje en un conjunto de instrucciones en otro formato o lenguaje.
+Un compilador generalmente genera lenguaje ensamblador primero y luego traduce el lenguaje ensamblador al lenguaje máquina. 
+Una utilidad conocida como «enlazador» combina todos los módulos de lenguaje de máquina necesarios en un programa ejecutable que se puede ejecutar en la computadora.
+---------------------------------------------------------------------------
+
+Ciclo de desarrollo
+El ciclo de vida del desarrollo de software abarca el desarrollo de nuevo software desde la etapa de planificación inicial 
+hasta la implementación y el mantenimiento a largo plazo. 
+La metodología del ciclo de vida del desarrollo de software (SDLC) ofrece un marco de administración sistemático 
+con entregas específicas en cada etapa del proceso de desarrollo de software.
+Los detalles del proceso SDLC varían para equipos diferentes. Sin embargo, a continuación se describen algunas fases comunes del SDLC.
+
+-Planificación
+La fase de planificación incluye normalmente tareas como análisis de costos y beneficios, programación, estimación de recursos y asignación. 
+El equipo de desarrollo recopila requisitos de varias partes interesadas, como clientes, expertos internos y externos, así como directivos, 
+para crear un documento de especificaciones con los requisitos del software.
+El documento establece las especificaciones y define los objetivos comunes que ayudan a planificar el proyecto. 
+El equipo estima los costos, define una programación y dispone de un plan detallado para conseguir los objetivos.
+
+-Diseño
+En la fase de diseño, los ingenieros de software analizan los requisitos e identifican las mejores soluciones para crear el software. 
+Por ejemplo, pueden plantearse la integración de módulos ya existentes, elegir la tecnología e identificar herramientas de desarrollo. 
+Decidirán la mejor manera de integrar el nuevo software en cualquier infraestructura de TI existente que la organización pueda tener.
+
+-Implementación
+En la fase de implementación, el equipo de desarrollo codifica el producto. 
+Se analizan los requisitos para identificar tareas de codificación más pequeñas que puedan hacerse diariamente para conseguir el resultado final.
+
+-Pruebas
+El equipo de desarrollo combina las pruebas automáticas y manuales para comprobar si el software tiene errores. 
+Los análisis de calidad incluyen probar el software para detectar errores y comprobar si cumple los requisitos del cliente. 
+Dado que muchos equipos prueban inmediatamente el código que escriben, la fase de pruebas se ejecuta con frecuencia en paralelo a la fase de desarrollo.
+
+-Despliegue
+Cuando los equipos desarrollan software, lo codifican y prueban en una copia diferente que no es a la que acceden los usuarios. 
+El software que los clientes usan se llama producción, mientras que las otras copias están en el entorno de compilación o entorno de pruebas.
+Disponer de un entorno de compilación y de un entorno de producción diferenciados garantiza que los clientes puedan seguir usando el software 
+incluso cuando se modifica o actualiza. 
+La fase de despliegue incluye varias tareas para llevar la última copia compilada al entorno de producción, como empaquetado, 
+configuración del entorno e instalación.
+
+-Mantenimiento
+En la fase de mantenimiento, entre otras tareas, el equipo corrige errores, resuelve problemas de los clientes y administra los cambios hechos en el software. 
+Además, el equipo supervisa el rendimiento general del sistema, la seguridad y la experiencia del usuario para identificar nuevas maneras de mejorar el software 
+existente.
+---------------------------------------------------------------------------
+
+Documento de especificacion 
+En un documento de especificación de requisitos de software (SRS, por sus siglas en inglés, o ERS, por sus siglas en español) 
+se enumeran los requisitos, las expectativas, el diseño y los estándares de un proyecto futuro.
+
+BIBLIOGRAFIA
+
+Software
+
+Porto, J. P., & Gardey, A. (2008, March 27). Software. Definición.de; Definicion.de. https://definicion.de/software/
+
+Qué es Software. (n.d.). Arimetrics. Retrieved February 16, 2024, from https://www.arimetrics.com/glosario-digital/software
+
+Software - Qué es, concepto, tipos, ejemplos, hardware. (n.d.). Retrieved February 16, 2024, from https://concepto.de/software/
+____________________________________________________________________________________________________
+ing software
+
+Ingeniería de software: Qué es, Objetivos y Funciones. (n.d.). UNIR México. Retrieved February 16, 2024, from https://mexico.unir.net/ingenieria/noticias/ingenieria-de-software-que-es-objetivos/
+
+Porto, J. P., & Gardey, A. (2009, March 26). Ingeniería de software. Definición.de; Definicion.de. https://definicion.de/ingenieria-de-software/
+______________________________________________________________________________________________________
+Git
+
+Atlassian. (n.d.). Qué es Git. Atlassian. Retrieved February 16, 2024, from https://www.atlassian.com/es/git/tutorials/what-is-git
+
+Git. (n.d.). Git-scm.com. Retrieved February 16, 2024, from https://git-scm.com/
+______________________________________________________________________________________________________
+Programacion 
+Vera, C. M., Loor, J. M., & Mera, J. A. B. (2018). LOS PILARES DE LA PROGRAMACIÓN ORIENTADA A LA WEB: UN ENFOQUE TEÓRICO. 1. https://concepto.de/programacion/
+_____________________________________________________________________________________________________
+Lenguaje de programacion 
+
+Lenguaje de Programación - Concepto, tipos y ejemplos. (n.d.). Retrieved February 16, 2024, from https://concepto.de/lenguaje-de-programacion/
+
+Mendoza, M. L. (2020, July 16). Qué es un lenguaje de programación. Openwebinars.net. https://openwebinars.net/blog/que-es-un-lenguaje-de-programacion/
+______________________________________________________________________________________________________
+Compilador 
+
+Calvo, J. (s/f). ¿Que es un Compilador en programación? Europeanvalley.es. Recuperado el 16 de febrero de 2024, de https://www.europeanvalley.es/noticias/que-es-un-compilador-en-programacion/
+
+Compilar. (s/f). MDN Web Docs. Recuperado el 16 de febrero de 2024, de https://developer.mozilla.org/es/docs/Glossary/Compile
+______________________________________________________________________________________________________
+Ciclo de desarrollo
+
+Meneses, N. (2023, junio 16). Guía del Ciclo de Vida del Desarrollo de Software. Coding Dojo Latam. https://www.codingdojo.la/2023/06/16/guia-del-ciclo-de-vida-del-desarrollo-de-software/
+
+(S/f). Amazon.com. Recuperado el 16 de febrero de 2024, de https://aws.amazon.com/es/what-is/sdlc/
+_____________________________________________________________________________________________________
+Documento de especificacion
+
+Asana. (2023, abril 13). Cómo redactar un documento de requisitos de software (incluye una plantilla). Asana. https://asana.com/es/resources/software-requirement-document-template
+
+
+
+
